@@ -22,5 +22,6 @@
 
 ###  💻 Text Editors
 
-<img aling="center" alt=Sublime src="https://camo.githubusercontent.com/3cc20b905b09f53e6ecdb3f7f519007e18cce158aad7ebe113bbfcd68526bde7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74" />
+<img aling="center" alt=Sublime src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+
 <img aling="center" alt=VScode src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
